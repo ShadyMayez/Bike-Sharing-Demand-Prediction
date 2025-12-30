@@ -1,0 +1,12 @@
+bike-sharing-prediction/
+├── data/                   
+│   ├── day.csv             # Add your day.csv here
+│   └── hour.csv            # Add your hour.csv here
+├── notebooks/              
+[cite_start]│   └── Bikes_Sharing.ipynb # The notebook you uploaded [cite: 1]
+├── reports/                
+[cite_start]│   └── Bikes_Sharing.pdf   # The PDF report you uploaded [cite: 2]
+├── .gitignore              
+├── LICENSE                 
+├── README.md               
+└── requirements.txt
